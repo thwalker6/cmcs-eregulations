@@ -1,0 +1,183 @@
+[
+  {
+    "model": "supplementary_content.category",
+    "pk": "10",
+    "fields": {
+      "parent": 6,
+      "title": "SPA Resources",
+      "description": "",
+      "order": "100"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "19",
+    "fields": {
+      "parent": 6,
+      "title": "Technical Assistance for States",
+      "description": "",
+      "order": "200"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "18",
+    "fields": {
+      "parent": 1,
+      "title": "State Health Official (SHO) Letter",
+      "description": "",
+      "order": "200"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "9",
+    "fields": {
+      "parent": 6,
+      "title": "Templates",
+      "description": "",
+      "order": "300"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "8",
+    "fields": {
+      "parent": 6,
+      "title": "Toolkits",
+      "description": "",
+      "order": "500"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "11",
+    "fields": {
+      "parent": 6,
+      "title": "Waiver Resources",
+      "description": "",
+      "order": "600"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "21",
+    "fields": {
+      "title": "NPRMs (Connected to Final Rules)",
+      "description": "",
+      "order": "0"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "22",
+    "fields": {
+      "title": "Final Rules",
+      "description": "",
+      "order": "0"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "20",
+    "fields": {
+      "parent": 1,
+      "title": "State Medicaid Director Letter (SMDL)",
+      "description": "",
+      "order": "100"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "33",
+    "fields": {
+      "parent": 1,
+      "title": "State Medicaid Manual",
+      "description": "",
+      "order": "500"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "30",
+    "fields": {
+      "title": "Related Statutes",
+      "description": "Statutes that relate to the subject matter of the Subpart",
+      "order": "200"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "12",
+    "fields": {
+      "title": "Related Regulations",
+      "description": "Regulations outside the Subpart related to the subject matter",
+      "order": "300"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "1",
+    "fields": {
+      "title": "Subregulatory Guidance",
+      "description": "SMDLs, SHOs, CIBs, FAQs",
+      "order": "400"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "6",
+    "fields": {
+      "title": "Implementation Resources",
+      "description": "State Technical Assistance, Toolkits, SPA/Waiver Resources",
+      "order": "500"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "13",
+    "fields": {
+      "title": "Terms",
+      "description": "key abbreviations and definitions",
+      "order": "600"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "34",
+    "fields": {
+      "title": "Requests for Information (RFIs)",
+      "description": "RFIs published in the Federal Register",
+      "order": "100"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "35",
+    "fields": {
+      "title": "Reports to Congress",
+      "description": "CMS policy analysis and research reports sent to Congress",
+      "order": "501"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "32",
+    "fields": {
+      "parent": 1,
+      "title": "CMCS Informational Bulletin (CIB)",
+      "description": "",
+      "order": "300"
+    }
+  },
+  {
+    "model": "supplementary_content.category",
+    "pk": "28",
+    "fields": {
+      "parent": 1,
+      "title": "Frequently Asked Questions (FAQs)",
+      "description": "",
+      "order": "400"
+    }
+  }
+]

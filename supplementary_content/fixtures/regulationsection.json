@@ -1,0 +1,7722 @@
+[
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "103",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "",
+      "section": "1"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "683",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "B",
+      "section": "12"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "678",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "B",
+      "section": "14"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "105",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "",
+      "section": "15"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "106",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "",
+      "section": "16"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "104",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "",
+      "section": "20"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "679",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "B",
+      "section": "25"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "107",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "",
+      "section": "30"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "713",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "C",
+      "section": "32"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "108",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "",
+      "section": "40"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "109",
+    "fields": {
+      "title": "42",
+      "part": "430",
+      "subpart": "",
+      "section": "42"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "110",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "10"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "167",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "1010"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "168",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "107"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "111",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "11"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "170",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "115"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "115",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "12"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "116",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "15"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "117",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "16"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "118",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "17"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "119",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "18"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "660",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "A",
+      "section": "20"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "124",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "200"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "125",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "201"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "126",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "202"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "127",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "205"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "128",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "206"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "129",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "21"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "161",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "210"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "130",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "211"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "131",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "213"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "132",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "214"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "133",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "220"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "134",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "221"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "135",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "222"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "136",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "223"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "162",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "224"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "137",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "230"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "138",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "231"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "139",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "232"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "140",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "233"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "141",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "240"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "142",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "241"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "143",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "242"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "144",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "243"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "145",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "244"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "146",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "245"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "147",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "246"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "148",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "250"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "149",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "300"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "150",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "301"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "151",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "302"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "152",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "303"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "153",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "304"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "154",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "305"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "155",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "306"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "156",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "307"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "171",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "400"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "163",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "408"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "169",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "412"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "164",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "416"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "165",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "420"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "680",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "G",
+      "section": "424"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "184",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "428"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "120",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "50"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "121",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "51"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "122",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "52"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "123",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "53"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "685",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "B",
+      "section": "55"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "185",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "60"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "157",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "610"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "158",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "615"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "159",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "620"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "160",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "625"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "186",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "70"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "643",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "P",
+      "section": "800"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "189",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "806"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "202",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "810"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "190",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "812"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "203",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "814"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "191",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "816"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "192",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "95"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "206",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "950"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "193",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "954"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "194",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "958"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "166",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "960"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "195",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "970"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "196",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "972"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "197",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "978"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "198",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "98"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "199",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "988"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "200",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "992"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "201",
+    "fields": {
+      "title": "42",
+      "part": "431",
+      "subpart": "",
+      "section": "998"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "207",
+    "fields": {
+      "title": "42",
+      "part": "432",
+      "subpart": "",
+      "section": "2"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "714",
+    "fields": {
+      "title": "42",
+      "part": "432",
+      "subpart": "B",
+      "section": "30"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "208",
+    "fields": {
+      "title": "42",
+      "part": "432",
+      "subpart": "",
+      "section": "50"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "209",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "10"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "219",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "11"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "66",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "110"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "57",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "111"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "55",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "112"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "67",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "114"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "56",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "116"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "68",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "117"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "71",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "119"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "62",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "120"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "70",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "121"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "72",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "122"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "61",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "123"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "73",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "127"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "220",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "130"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "74",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "131"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "210",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "136"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "211",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "137"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "58",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "C",
+      "section": "138"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "223",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "139"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "224",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "145"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "225",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "147"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "226",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "148"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "212",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "15"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "227",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "152"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "213",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "202"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "214",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "204"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "215",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "206"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "216",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "208"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "217",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "210"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "218",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "212"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "673",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "F",
+      "section": "300"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "674",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "F",
+      "section": "302"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "228",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "304"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "229",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "310"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "63",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "F",
+      "section": "312"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "64",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "F",
+      "section": "316"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "675",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "F",
+      "section": "318"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "230",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "32"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "65",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "F",
+      "section": "320"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "221",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "322"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "59",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "A",
+      "section": "34"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "231",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "35"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "222",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "36"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "232",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "38"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "233",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "400"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "60",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "B",
+      "section": "51"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "237",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "52"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "241",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "53"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "238",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "54"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "234",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "57"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "239",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "66"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "240",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "67"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "235",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "68"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "236",
+    "fields": {
+      "title": "42",
+      "part": "433",
+      "subpart": "",
+      "section": "70"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "242",
+    "fields": {
+      "title": "42",
+      "part": "434",
+      "subpart": "",
+      "section": "10"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "244",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "1007"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "695",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "K",
+      "section": "1009"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "205",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "101"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "248",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "1010"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "754",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "B",
+      "section": "109"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "249",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "110"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "255",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "1100"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "258",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "1101"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "259",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "1102"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "261",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "1103"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "262",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "111"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "264",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "1110"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "699",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "B",
+      "section": "112"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "251",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "116"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "266",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "117"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "246",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "118"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "247",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "119"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "268",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "120"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "78",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "1200"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "114",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "1205"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "243",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "121"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "270",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "122"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "743",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "B",
+      "section": "139"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "718",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "B",
+      "section": "145"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "112",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "150"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "113",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "170"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "271",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "20"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "677",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "C",
+      "section": "210"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "726",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "C",
+      "section": "211"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "260",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "213"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "676",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "C",
+      "section": "214"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "272",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "215"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "94",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "C",
+      "section": "217"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "252",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "218"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "693",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "C",
+      "section": "219"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "267",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "222"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "692",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "C",
+      "section": "225"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "273",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "226"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "741",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "C",
+      "section": "230"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "256",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "236"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "265",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "301"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "250",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "4"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "245",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "403"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "100",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "404"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "93",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "E",
+      "section": "406"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "254",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "407"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "275",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "54"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "742",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "F",
+      "section": "540"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "276",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "541"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "88",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "G",
+      "section": "601"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "89",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "G",
+      "section": "602"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "90",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "G",
+      "section": "603"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "688",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "G",
+      "section": "608"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "689",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "G",
+      "section": "610"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "277",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "631"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "95",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "H",
+      "section": "700"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "257",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "725"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "96",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "H",
+      "section": "726"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "187",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "733"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "97",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "H",
+      "section": "735"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "715",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "P",
+      "section": "820"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "691",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "I",
+      "section": "831"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "188",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "832"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "278",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "902"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "279",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "903"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "280",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "904"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "75",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "905"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "281",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "906"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "91",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "G",
+      "section": "907"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "101",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "908"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "698",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "909"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "274",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "910"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "92",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "911"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "76",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "912"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "269",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "914"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "263",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "915"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "77",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "916"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "79",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "917"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "204",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "918"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "284",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "920"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "686",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "923"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "80",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "926"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "285",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "93"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "253",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "94"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "81",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "940"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "82",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "945"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "83",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "948"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "84",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "949"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "85",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "952"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "86",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "956"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "286",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "",
+      "section": "96"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "87",
+    "fields": {
+      "title": "42",
+      "part": "435",
+      "subpart": "J",
+      "section": "960"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "287",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "100"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "290",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "1002"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "696",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "K",
+      "section": "1005"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "294",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "1006"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "295",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "110"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "750",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "L",
+      "section": "1102"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "296",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "111"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "314",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "1110"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "298",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "116"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "292",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "118"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "299",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "119"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "293",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "120"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "311",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "1200"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "317",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "121"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "318",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "122"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "320",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "124"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "312",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "150"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "321",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "217"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "300",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "218"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "702",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "C",
+      "section": "219"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "315",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "222"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "323",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "3"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "324",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "300"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "297",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "4"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "291",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "403"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "325",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "404"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "316",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "406"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "313",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "407"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "319",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "601"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "329",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "602"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "288",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "603"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "322",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "832"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "289",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "901"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "330",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "902"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "331",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "903"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "332",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "904"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "301",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "905"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "333",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "906"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "302",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "907"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "303",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "908"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "328",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "910"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "304",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "911"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "326",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "912"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "334",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "914"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "305",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "916"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "335",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "920"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "336",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "93"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "306",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "94"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "307",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "945"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "327",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "948"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "308",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "949"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "309",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "952"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "310",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "956"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "337",
+    "fields": {
+      "title": "42",
+      "part": "436",
+      "subpart": "",
+      "section": "96"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "756",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "A",
+      "section": "1"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "338",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "10"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "658",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "C",
+      "section": "100"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "664",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "C",
+      "section": "102"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "360",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "104"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "765",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "C",
+      "section": "106"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "365",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "108"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "762",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "C",
+      "section": "110"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "342",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "114"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "366",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "116"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "663",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "A",
+      "section": "12"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "358",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "14"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "357",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "2"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "774",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "D",
+      "section": "202"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "373",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "206"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "374",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "207"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "378",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "208"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "379",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "210"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "653",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "D",
+      "section": "214"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "654",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "D",
+      "section": "224"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "345",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "228"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "655",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "D",
+      "section": "230"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "380",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "236"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "775",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "D",
+      "section": "240"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "346",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "242"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "341",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "3"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "372",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "31"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "381",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "310"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "645",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "E",
+      "section": "320"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "382",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "330"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "383",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "332"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "384",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "334"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "385",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "340"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "361",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "350"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "650",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "E",
+      "section": "352"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "646",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "E",
+      "section": "354"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "649",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "E",
+      "section": "356"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "647",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "E",
+      "section": "358"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "667",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "E",
+      "section": "360"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "652",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "E",
+      "section": "362"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "648",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "E",
+      "section": "364"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "386",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "370"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "389",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "4"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "347",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "400"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "348",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "402"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "349",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "404"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "350",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "406"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "351",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "408"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "352",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "410"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "353",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "414"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "354",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "416"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "355",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "420"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "356",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "424"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "377",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "5"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "390",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "50"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "339",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "52"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "340",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "54"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "359",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "56"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "364",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "58"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "368",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "6"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "764",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "B",
+      "section": "60"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "392",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "600"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "727",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "H",
+      "section": "602"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "387",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "604"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "772",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "H",
+      "section": "606"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "669",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "H",
+      "section": "608"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "393",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "610"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "687",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "B",
+      "section": "62"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "343",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "66"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "371",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "68"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "369",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "7"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "761",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "B",
+      "section": "70"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "363",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "700"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "394",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "702"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "395",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "704"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "766",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "I",
+      "section": "706"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "767",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "I",
+      "section": "708"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "344",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "71"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "396",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "710"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "768",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "I",
+      "section": "722"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "397",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "724"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "769",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "I",
+      "section": "726"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "398",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "730"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "666",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "B",
+      "section": "74"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "370",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "8"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "763",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "J",
+      "section": "802"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "375",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "806"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "731",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "J",
+      "section": "808"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "367",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "810"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "747",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "J",
+      "section": "812"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "770",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "J",
+      "section": "816"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "388",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "818"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "391",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "9"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "99",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "905"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "282",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "908"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "283",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "909"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "376",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "910"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "362",
+    "fields": {
+      "title": "42",
+      "part": "438",
+      "subpart": "",
+      "section": "920"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "399",
+    "fields": {
+      "title": "42",
+      "part": "44",
+      "subpart": "",
+      "section": "182"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "405",
+    "fields": {
+      "title": "42",
+      "part": "44",
+      "subpart": "",
+      "section": "452"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "721",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "1"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "30",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "10"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "41",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "100"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "35",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "110"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "40",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "120"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "8",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "130"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "6",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "140"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "14",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "160"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "751",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "165"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "755",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "166"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "25",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "167"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "39",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "168"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "9",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "169"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "21",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "170"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "409",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "",
+      "section": "18"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "26",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "180"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "27",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "181"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "28",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "182"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "745",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "2"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "31",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "20"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "15",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "B",
+      "section": "200"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "10",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "B",
+      "section": "210"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "11",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "B",
+      "section": "220"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "408",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "",
+      "section": "225"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "12",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "B",
+      "section": "230"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "13",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "B",
+      "section": "240"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "17",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "B",
+      "section": "250"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "748",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "B",
+      "section": "255"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "771",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "B",
+      "section": "262"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "410",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "",
+      "section": "30"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "29",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "300"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "36",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "305"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "46",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "310"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "37",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "315"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "38",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "320"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "48",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "325"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "49",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "330"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "18",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "335"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "50",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "340"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "19",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "345"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "22",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "347"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "51",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "350"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "52",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "355"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "43",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "360"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "20",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "365"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "53",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "370"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "44",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "375"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "45",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "380"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "54",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "385"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "47",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "386"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "42",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "390"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "23",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "C",
+      "section": "395"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "16",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "40"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "32",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "50"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "33",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "60"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "7",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "70"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "24",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "80"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "34",
+    "fields": {
+      "title": "42",
+      "part": "440",
+      "subpart": "A",
+      "section": "90"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "411",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "101"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "710",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "C",
+      "section": "102"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "711",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "C",
+      "section": "103"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "753",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "C",
+      "section": "106"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "717",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "A",
+      "section": "13"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "413",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "15"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "415",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "150"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "412",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "151"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "416",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "152"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "417",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "153"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "418",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "154"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "419",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "155"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "420",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "156"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "426",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "16"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "427",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "17"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "400",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "18"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "421",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "180"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "422",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "181"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "423",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "182"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "424",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "183"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "425",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "184"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "429",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "20"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "431",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "203"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "432",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "206"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "752",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "A",
+      "section": "21"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "430",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "257"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "433",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "300"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "436",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "3002"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "401",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "301"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "434",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "302"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "435",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "303"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "682",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "G",
+      "section": "304"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "402",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "310"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "428",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "350"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "437",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "351"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "438",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "352"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "455",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "353"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "684",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "H",
+      "section": "355"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "403",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "360"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "712",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "H",
+      "section": "365"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "439",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "45"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "404",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "450"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "440",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "452"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "441",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "464"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "456",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "50"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "700",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "K",
+      "section": "500"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "703",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "K",
+      "section": "505"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "725",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "D",
+      "section": "51"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "442",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "510"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "701",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "K",
+      "section": "515"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "443",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "520"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "453",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "525"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "444",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "530"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "445",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "535"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "446",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "540"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "447",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "545"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "457",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "55"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "448",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "550"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "449",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "555"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "414",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "56"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "708",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "K",
+      "section": "560"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "709",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "K",
+      "section": "565"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "458",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "57"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "706",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "K",
+      "section": "570"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "704",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "K",
+      "section": "575"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "459",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "58"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "707",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "K",
+      "section": "580"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "705",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "K",
+      "section": "585"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "460",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "59"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "461",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "60"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "672",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "L",
+      "section": "605"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "452",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "61"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "462",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "62"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "719",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "M",
+      "section": "700"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "463",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "705"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "406",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "710"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "407",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "715"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "450",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "720"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "451",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "725"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "454",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "730"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "464",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "740"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "465",
+    "fields": {
+      "title": "42",
+      "part": "441",
+      "subpart": "",
+      "section": "745"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "466",
+    "fields": {
+      "title": "42",
+      "part": "442",
+      "subpart": "",
+      "section": "1"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "469",
+    "fields": {
+      "title": "42",
+      "part": "442",
+      "subpart": "",
+      "section": "101"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "467",
+    "fields": {
+      "title": "42",
+      "part": "442",
+      "subpart": "",
+      "section": "12"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "468",
+    "fields": {
+      "title": "42",
+      "part": "442",
+      "subpart": "",
+      "section": "30"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "475",
+    "fields": {
+      "title": "42",
+      "part": "445",
+      "subpart": "",
+      "section": "460"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "476",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "10"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "477",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "15"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "736",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "B",
+      "section": "200"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "668",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "B",
+      "section": "201"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "479",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "203"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "480",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "204"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "481",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "205"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "738",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "C",
+      "section": "250"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "486",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "252"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "671",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "C",
+      "section": "253"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "488",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "256"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "735",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "C",
+      "section": "257"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "489",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "26"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "722",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "C",
+      "section": "271"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "490",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "272"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "492",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "294"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "493",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "295"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "494",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "297"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "495",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "298"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "496",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "299"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "746",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "F",
+      "section": "300"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "724",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "F",
+      "section": "304"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "749",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "A",
+      "section": "31"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "491",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "321"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "723",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "F",
+      "section": "325"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "642",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "F",
+      "section": "362"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "498",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "371"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "670",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "A",
+      "section": "40"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "499",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "405"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "737",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "G",
+      "section": "410"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "720",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "G",
+      "section": "415"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "500",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "45"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "501",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "46"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "503",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "50"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "507",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "500"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "482",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "502"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "508",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "504"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "509",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "505"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "510",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "506"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "511",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "507"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "512",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "508"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "513",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "509"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "487",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "51"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "514",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "510"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "515",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "511"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "483",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "512"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "484",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "514"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "485",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "518"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "478",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "52"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "516",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "520"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "744",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "I",
+      "section": "522"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "504",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "53"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "505",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "54"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "497",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "55"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "502",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "56"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "506",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "",
+      "section": "57"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "739",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "A",
+      "section": "88"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "740",
+    "fields": {
+      "title": "42",
+      "part": "447",
+      "subpart": "A",
+      "section": "90"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "520",
+    "fields": {
+      "title": "42",
+      "part": "4545",
+      "subpart": "",
+      "section": "101"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "522",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "1"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "523",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "100"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "524",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "101"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "525",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "102"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "526",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "103"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "527",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "104"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "528",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "105"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "521",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "106"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "529",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "107"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "694",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "A",
+      "section": "13"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "732",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "A",
+      "section": "14"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "733",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "A",
+      "section": "15"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "517",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "2"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "518",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "20"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "537",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "200"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "734",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "A",
+      "section": "21"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "519",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "23"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "538",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "230"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "539",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "232"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "172",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "304"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "530",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "405"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "470",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "410"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "531",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "412"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "471",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "414"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "472",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "416"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "730",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "E",
+      "section": "422"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "540",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "432"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "532",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "434"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "533",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "436"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "536",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "440"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "473",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "450"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "474",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "452"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "541",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "460"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "729",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "E",
+      "section": "470"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "534",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "502"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "542",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "506"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "535",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "508"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "543",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "510"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "544",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "512"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "545",
+    "fields": {
+      "title": "42",
+      "part": "455",
+      "subpart": "",
+      "section": "516"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "546",
+    "fields": {
+      "title": "42",
+      "part": "456",
+      "subpart": "",
+      "section": "1"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "681",
+    "fields": {
+      "title": "42",
+      "part": "456",
+      "subpart": "B",
+      "section": "23"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "551",
+    "fields": {
+      "title": "42",
+      "part": "456",
+      "subpart": "",
+      "section": "3"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "550",
+    "fields": {
+      "title": "42",
+      "part": "456",
+      "subpart": "",
+      "section": "6"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "547",
+    "fields": {
+      "title": "42",
+      "part": "456",
+      "subpart": "",
+      "section": "606"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "548",
+    "fields": {
+      "title": "42",
+      "part": "456",
+      "subpart": "",
+      "section": "650"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "549",
+    "fields": {
+      "title": "42",
+      "part": "456",
+      "subpart": "",
+      "section": "652"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "553",
+    "fields": {
+      "title": "42",
+      "part": "456",
+      "subpart": "",
+      "section": "703"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "552",
+    "fields": {
+      "title": "42",
+      "part": "456",
+      "subpart": "",
+      "section": "714"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "554",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "563",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "10"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "571",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1000"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "572",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1003"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "567",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1005"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "573",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1010"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "574",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1015"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "174",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "110"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "592",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1100"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "651",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "K",
+      "section": "1110"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "593",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1120"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "594",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1130"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "595",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1140"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "596",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1150"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "597",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1160"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "598",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1170"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "599",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1180"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "600",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1190"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "562",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "120"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "568",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1200"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "181",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1201"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "182",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1203"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "603",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1206"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "183",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1207"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "665",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1208"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "760",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1210"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "656",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1212"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "697",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1216"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "644",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1218"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "662",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1220"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "659",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1222"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "780",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1224"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "657",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1228"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "585",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1230"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "606",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1233"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "607",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1240"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "575",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "125"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "608",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "1250"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "661",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1260"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "759",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "L",
+      "section": "1285"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "587",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "130"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "576",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "140"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "716",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "A",
+      "section": "160"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "558",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "2"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "773",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "B",
+      "section": "204"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "175",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "224"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "641",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "B",
+      "section": "226"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "638",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "B",
+      "section": "236"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "555",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "30"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "614",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "301"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "610",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "310"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "564",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "315"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "557",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "320"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "176",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "330"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "177",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "340"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "565",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "342"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "586",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "343"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "570",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "348"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "178",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "350"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "615",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "351"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "566",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "355"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "616",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "360"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "617",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "370"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "179",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "380"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "559",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "40"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "582",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "402"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "583",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "410"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "757",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "D",
+      "section": "420"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "758",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "D",
+      "section": "430"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "601",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "480"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "637",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "D",
+      "section": "490"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "584",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "495"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "602",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "496"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "560",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "50"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "611",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "510"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "690",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "E",
+      "section": "515"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "619",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "520"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "569",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "535"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "577",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "540"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "578",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "555"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "579",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "560"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "588",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "570"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "581",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "60"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "612",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "606"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "620",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "614"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "621",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "616"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "618",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "618"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "613",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "622"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "622",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "628"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "640",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "F",
+      "section": "630"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "173",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "65"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "561",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "70"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "623",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "710"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "624",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "72"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "625",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "720"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "604",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "730"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "589",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "735"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "180",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "740"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "590",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "750"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "605",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "760"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "609",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "80"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "591",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "805"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "580",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "810"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "556",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "",
+      "section": "90"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "776",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "I",
+      "section": "902"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "777",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "I",
+      "section": "940"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "778",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "I",
+      "section": "950"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "779",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "I",
+      "section": "955"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "639",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "I",
+      "section": "980"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "728",
+    "fields": {
+      "title": "42",
+      "part": "457",
+      "subpart": "I",
+      "section": "990"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "629",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "10"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "630",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "12"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "634",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "150"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "635",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "180"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "626",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "2"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "631",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "30"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "627",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "4"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "628",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "6"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "632",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "60"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "636",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "80"
+    }
+  },
+  {
+    "model": "supplementary_content.regulationsection",
+    "pk": "633",
+    "fields": {
+      "title": "42",
+      "part": "460",
+      "subpart": "",
+      "section": "90"
+    }
+  }
+]
