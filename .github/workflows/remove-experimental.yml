@@ -20,8 +20,8 @@ jobs:
       - name: get branch name from PR
         if: github.event.name != 'workflow_dispatch'
         run: |
-          echo "Branch Name: ${{ github.event.pull_request.ref }}"
-          echo "branch_name=${{ github.event.pull_request.ref }}" >> $GITHUB_ENV
+          echo "Branch Name: ${GITHUB_REF##*/}"
+          echo "branch_name=${GITHUB_REF##*/}" >> $GITHUB_ENV
       - uses: actions/checkout@v2
         with:
           submodules: true
