@@ -39,7 +39,7 @@ jobs:
           pushd serverless
           npm install serverless -g
           npm install
-          serverless remove --config ./serverless-experimental.yml --stage dev-$branch_name
+          serverless remove --config ./serverless-experimental.yml --stage dev-${GITHUB_REF##*/}
           popd
       - name: remove static assets
         env:
