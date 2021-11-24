@@ -1,8 +1,17 @@
 import vue from "rollup-plugin-vue";
 import { nodeResolve } from "@rollup/plugin-node-resolve";
 import commonjs from "@rollup/plugin-commonjs";
+import replace from "@rollup/plugin-replace";
 
-const plugins = [nodeResolve(), commonjs(), vue({ needMap: false })];
+const plugins = [
+    replace({
+        "process.env.ES_BUILD": JSON.stringify("false"),
+        "process.env.NODE_ENV": JSON.stringify("production"),
+    }),
+    vue({ needMap: false }),
+    nodeResolve(),
+    commonjs(),
+];
 
 export default [
     {
@@ -31,10 +40,10 @@ export default [
         plugins,
     },
     {
-        input: 'components/SupplementalContent.vue',
+        input: "components/SupplementalContent.vue",
         output: {
-            format: 'esm',
-            file: 'regulations/js/SupplementalContent.js'
+            format: "esm",
+            file: "regulations/js/SupplementalContent.js",
         },
         plugins,
     },

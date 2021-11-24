@@ -4,10 +4,8 @@ import CollapseButton from "./CollapseButton.js";
 import SupplementalContent from "./SupplementalContent.js";
 import CopyBtn from "./CopyBtn.js";
 import TableComponent from "./TableComponent.js";
-import Vue from "../../node_modules/vue/dist/vue.esm.browser.min.js";
+import * as Vue from "../../node_modules/vue/dist/vue.esm-browser.js";
 import { goToVersion } from "./go-to-version.js";
-
-Vue.config.devtools = true;
 
 function isElementInViewport(el) {
     var rect = el.getBoundingClientRect();
@@ -136,7 +134,7 @@ function viewButtonClose() {
 }
 
 function main() {
-    new Vue({
+    const app = Vue.createApp({
         components: {
             RelatedRules,
             Collapsible,
@@ -145,7 +143,9 @@ function main() {
             CopyBtn,
             TableComponent
         },
-    }).$mount("#vue-app");
+    })
+
+    app.mount("#vue-app");
 
     const stateful_elements = document.querySelectorAll("[data-state]");
     for (const el of stateful_elements) {
