@@ -1,4 +1,5 @@
 import Vue from "vue/dist/vue.esm.browser.min";
+import Vuetify from "vuetify/lib";
 
 import RelatedRules from "./RelatedRules";
 import Collapsible from "./Collapsible";
@@ -10,6 +11,7 @@ import TableComponent from "./TableComponent";
 import { goToVersion } from "./go-to-version";
 
 Vue.config.devtools = true;
+Vue.use(Vuetify);
 
 function isElementInViewport(el) {
     const rect = el.getBoundingClientRect();

@@ -256,8 +256,6 @@ __vue_render__$1._withStripped = true;
     undefined
   );
 
-//
-
 const getAnchorY = (el, elType) => {
     if (!el) return 0;
 

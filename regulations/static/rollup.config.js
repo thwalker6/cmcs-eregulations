@@ -1,16 +1,25 @@
 import vue from "rollup-plugin-vue";
+import vuetify from "rollup-plugin-vuetify";
+import scss from "rollup-plugin-scss"
 import { nodeResolve } from "@rollup/plugin-node-resolve";
 import alias from "@rollup/plugin-alias";
 import commonjs from "@rollup/plugin-commonjs";
+import replace from "@rollup/plugin-replace";
 
 const plugins = [
     nodeResolve(),
     commonjs(),
-    vue({ needMap: false }),
     alias({
         entries: [
             { find: "vue", replacement: "../../node_modules/vue" },
+            { find: "vuetify", replacement: "../../node_modules/vuetify" },
         ],
+    }),
+    vue({ needMap: false }),
+    vuetify(),
+    scss(),
+    replace({
+      'process.env.NODE_ENV': JSON.stringify('production'),
     }),
 ];
 
