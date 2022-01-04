@@ -1,12 +1,16 @@
 import vue from "rollup-plugin-vue";
 import vuetify from "rollup-plugin-vuetify";
-import scss from "rollup-plugin-scss"
+import scss from "rollup-plugin-scss";
 import { nodeResolve } from "@rollup/plugin-node-resolve";
 import alias from "@rollup/plugin-alias";
 import commonjs from "@rollup/plugin-commonjs";
 import replace from "@rollup/plugin-replace";
 
 const plugins = [
+    replace({
+        preventAssignment: true,
+        "process.env.NODE_ENV": JSON.stringify("production"),
+    }),
     nodeResolve(),
     commonjs(),
     alias({
@@ -17,15 +21,11 @@ const plugins = [
     }),
     vue({ needMap: false }),
     vuetify(),
-    scss(),
-    replace({
-      'process.env.NODE_ENV': JSON.stringify('production'),
-    }),
+    scss({ indentedSyntax: true }),
 ];
 
 export default [
     {
-        // ...
         input: "components/RelatedRules.vue",
         output: {
             format: "esm",
